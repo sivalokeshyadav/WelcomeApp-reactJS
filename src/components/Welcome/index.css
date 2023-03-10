@@ -1,0 +1,24 @@
+/* Write your CSS here */
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e293b;
+  font-family: 'Bree Serif';
+}
+
+.heading {
+  color: #f0bb03;
+}
+
+.paragraph {
+  color: #ffffff;
+}
+
+.btn-1 {
+  background-color: #ffffff;
+  color: #1e293b;
+  border-color: #ffffff;
+}
